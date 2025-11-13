@@ -1,4 +1,4 @@
-####### ******Deep Learning Models Mood Disorders Using MRI SNP*******
+******Deep Learning Models Mood Disorders Using MRI SNP*******
 
 1. MATLAB (the project is 100% MATLAB files in the repo). Confirm and install a modern release (R2019b / R2020a / R2021a or later recommended). The repo language is MATLAB. 
 GitHub
